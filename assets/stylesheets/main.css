@@ -1,0 +1,25 @@
+
+body {
+  font-size: 20pt;
+  Background-color: green
+}
+h1 { color: red; }
+h2 { color: pink; }
+p  { color: yellow; }
+.k{ color: lightblue;}
+.o{ color: lightgreen;}
+.u{ color: purple;}
+.i{ color: cyan;}
+.c{ color: black;}
+.h{ color: white;}
+span {
+  border: 2px dashed black;
+}
+table, td, th {
+  border-collapse: collapse;
+  border: 2px solid;
+  padding: 8px;
+}
+body {
+  font-size: 20pt;
+}
